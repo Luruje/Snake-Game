@@ -1,3 +1,3 @@
 # Snake-Game
    
-Celem projektu było utworzenie prostej gry na bazie odmalowywania komponentu JPanel, przy wykorzystaniu metody paintComponent. 
+Celem projektu było utworzenie prostej gry na bazie odświeżania obrazu przy wykorzystaniu metody paintComponent i obiektu klasy Timer.
