@@ -1,3 +1,3 @@
 # Snake-Game
-   
-Celem projektu było utworzenie prostej gry okienkowej typu Snake przy użyciu biblioteki Swing.
+
+Simple window snake-game created by using Java swing :)
